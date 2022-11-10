@@ -1,0 +1,1 @@
+enum ActivateStatus { active, inactive }
